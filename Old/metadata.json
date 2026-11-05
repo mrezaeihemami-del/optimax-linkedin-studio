@@ -1,0 +1,6 @@
+{
+  "name": "Optimax LinkedIn Automation Studio",
+  "description": "Automated LinkedIn thought-leadership publisher for HEOR and HTA intelligence with human-in-the-loop review, live mobile preview, and custom canvas graphic generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

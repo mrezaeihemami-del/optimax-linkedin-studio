@@ -1,0 +1,16 @@
+# Universal Agentic Framework Ignored Paths
+.env*
+credentials.json
+token.json
+.tmp/
+scratch/
+*.log
+graphify-out/cache/
+__pycache__/
+*.pyc
+
+# Node & Build artifacts
+node_modules/
+dist/
+.optimax_store.json
+*.local
